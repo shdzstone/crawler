@@ -1,0 +1,1 @@
+{"error":{"root_cause":[{"type":"index_not_found_exception","reason":"no such index [stone]","resource.type":"index_or_alias","resource.id":"stone","index_uuid":"_na_","index":"stone"}],"type":"index_not_found_exception","reason":"no such index [stone]","resource.type":"index_or_alias","resource.id":"stone","index_uuid":"_na_","index":"stone"},"status":404}
